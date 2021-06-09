@@ -2,7 +2,7 @@ module.exports = {
   HOST: "localhost",
   USER: "root",
   PASSWORD: "admin",
-  DB: "db_sequelize",
+  DB: "garupa",
   dialect: "mysql",
   pool: {
     max: 5,
